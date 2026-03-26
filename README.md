@@ -1,32 +1,105 @@
-# Udemy-The-Complete-2021-Web-Development-Course-Build-15-Projects
+# Accio Job – Frontend Projects (Monorepo)
 
-About this course The only course you need to become a full-stack web developer. Covers HTML5, CSS3, JS, ES6, Node, APIs, Mobile & more!
+This repository contains all my project submissions for the **Accio Job Full Stack Development Course**.
+Each unit includes multiple projects demonstrating problem-solving, core programming concepts, data structures & algorithms, frontend development, and backend fundamentals across the full-stack curriculum.
 
-***** Learn and Master Over 10 Modern 2021 Technologies *****
+---
 
--HTML5/CSS3 -JAVASCRIPT (ES5) -Modern JavaScript (ES6) -JQUERY & JQUERY UI -TWITTER BOOTSTRAP -Node.js -Git & Github -Heroku -PHP & MYSQL -WORDPRESS -AJAX
+## 📁 Repository Structure
 
--JSON -MOBILE APPS -GOOGLE MAPS APIS -FACEBOOK WIDGETS -GOOGLE PLUS WIDGETS -TWITTER WIDGETS -AND MORE!
+```
+Accio-Projects/
+│
+├── Unit-1/
+│   ├── Insta-Clone/
+│   ├── Blog/
+│   ├── Signup-Form/
+│
+├── Unit-2/
+│   ├── (upcoming projects)
+│
+└── index.html (Project Dashboard)
+```
 
-## Projects 
+---
 
+## 🚀 Live Projects
 
-Insta Clone
-- [Solution](https://sameer-shahzada.github.io/Accio-Projects/Unit-1/Insta-Clone/index.html)
-- [Source code](./Unit-1/Insta-Clone/)
+### 🔹 Unit 1
 
-Beagle Blog
-- [Solution](https://sameer-shahzada.github.io/Accio-Projects/Unit-1/Blog/index.html)
-- [Source code](./Unit-1/Blog/)
+#### 1. Insta Clone
 
-Sign Up Form
-- [Solution](https://sameer-shahzada.github.io/Accio-Projects/Unit-1/Blog/index.html)
-- [Source code](./Unit-1/Blog/)
+* 🌐 Live Demo:
+  https://sameer-shahzada.github.io/Accio-Projects/Unit-1/Insta-Clone/
+* 💻 Source Code:
+  `./Unit-1/Insta-Clone/`
 
-Pizza Restaurant UI
-- [Solution](https://sameer-shahzada.github.io/Udemy-The-Complete-2021-Web-Development-Course-Build-15-Projects//4.Maths-Game(HTML+CSS+JS)/index.html)
-- [Source code](./4.Maths-Game(HTML+CSS+JS)/)
+---
 
+#### 2. Beagle Blog
 
+* 🌐 Live Demo:
+  https://sameer-shahzada.github.io/Accio-Projects/Unit-1/Blog/
+* 💻 Source Code:
+  `./Unit-1/Blog/`
 
+---
 
+#### 3. Sign Up Form
+
+* 🌐 Live Demo:
+  https://sameer-shahzada.github.io/Accio-Projects/Unit-1/Signup-Form/
+* 💻 Source Code:
+  `./Unit-1/Signup-Form/`
+
+---
+
+#### 4. Pizza Restaurant UI
+
+* 🌐 Live Demo:
+  https://sameer-shahzada.github.io/Accio-Projects/Unit-1/Pizza-Restaurant/
+* 💻 Source Code:
+  `./Unit-1/Pizza-Restaurant/`
+
+---
+
+## ⚙️ Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript (ES6)
+* Responsive Design
+
+---
+
+## 📌 Notes
+
+* This repository follows a **monorepo structure** to manage multiple projects efficiently.
+* Each project is **independently accessible via GitHub Pages**.
+* All paths are structured to ensure proper deployment.
+
+---
+
+## 📈 Progress
+
+* ✅ Unit 1 – Completed
+* 🔄 Unit 2 – In Progress
+* ⏳ Upcoming Units – Pending
+
+---
+
+## 👨‍💻 Author
+
+**Mohd Sameer**
+Full Stack Developer (MERN & Next.js) | React.js, Node.js, Express, MongoDB | 3.6+ Years of Experience | Building Scalable Web Applications
+
+---
+
+## 🔗 Submission Note
+
+Each project includes:
+
+* ✅ GitHub Repository (this repo)
+* ✅ Individual Live Link (provided above)
+
+---

@@ -4,3 +4,9 @@
   box-sizing: border-box;
   font-family: "Roboto", sans-serif;
 }
+.box {
+  height: 300px;
+  width: 300px;
+  background-color: red;
+  color:white;
+}

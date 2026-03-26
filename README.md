@@ -16,8 +16,8 @@ Insta Clone
 - [Source code](./Unit-1/Insta-Clone/)
 
 Beagle Blog
-- [Solution](https://sameer-shahzada.github.io/Accio-Projects/Unit-1/Insta-Clone/index.html)
-- [Source code](./Unit-1/Insta-Clone/)
+- [Solution](https://sameer-shahzada.github.io/Accio-Projects/Unit-1/Blog/index.html)
+- [Source code](./Unit-1/Blog/)
 
 Sign Up Form
 - [Solution](https://sameer-shahzada.github.io/Accio-Projects/Unit-1/Blog/index.html)

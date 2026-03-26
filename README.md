@@ -18,8 +18,8 @@ Accio-Projects/
 ├── Unit-2/
 │   ├── (upcoming projects)
 │
-└── index.html (Project Dashboard) -->
-```
+└── index.html (Project Dashboard) 
+``` -->
 
 ---
 
@@ -60,9 +60,9 @@ Accio-Projects/
 * HTML5
 * CSS3
 * JavaScript (ES6)
-* Responsive Design -->
-
----
+* Responsive Design 
+-->
+--- 
 
 ## 📌 Notes
 

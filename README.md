@@ -5,7 +5,7 @@ Each unit includes multiple projects demonstrating problem-solving, core program
 
 ---
 
-## 📁 Repository Structure
+<!-- ## 📁 Repository Structure
 
 ```
 Accio-Projects/
@@ -18,7 +18,7 @@ Accio-Projects/
 ├── Unit-2/
 │   ├── (upcoming projects)
 │
-└── index.html (Project Dashboard)
+└── index.html (Project Dashboard) -->
 ```
 
 ---
@@ -29,42 +29,38 @@ Accio-Projects/
 
 #### 1. Insta Clone
 
-* 🌐 Live Demo:
-  https://sameer-shahzada.github.io/Accio-Projects/Unit-1/Insta-Clone/
-* 💻 Source Code: (./Unit-1/Insta-Clone/)
+* 🌐 Live Demo: https://sameer-shahzada.github.io/Accio-Projects/Unit-1/Insta-Clone/
+* 💻 Source Code: [./Unit-1/Insta-Clone/](./Unit-1/Insta-Clone/)
 
 ---
 
 #### 2. Beagle Blog
 
-* 🌐 Live Demo:
-  https://sameer-shahzada.github.io/Accio-Projects/Unit-1/Blog/
-* 💻 [Source Code](./Unit-1/Blog/)
+* 🌐 Live Demo:https://sameer-shahzada.github.io/Accio-Projects/Unit-1/Blog/
+* 💻 Source Code: [./Unit-1/Blog/](./Unit-1/Blog/)
 
 ---
 
 #### 3. Sign Up Form
 
-* 🌐 Live Demo:
-  https://sameer-shahzada.github.io/Accio-Projects/Unit-1/Signup-Form/
-* 💻 Source Code: (./Unit-1/Signup-Form/)
+* 🌐 Live Demo:https://sameer-shahzada.github.io/Accio-Projects/Unit-1/Signup-Form/
+* 💻 Source Code: [./Unit-1/Signup-Form/](./Unit-1/Signup-Form/)
 
 ---
 
 #### 4. Pizza Restaurant UI
 
-* 🌐 Live Demo:
-  https://sameer-shahzada.github.io/Accio-Projects/Unit-1/Pizza-Restaurant/
-* 💻 Source Code: (./Unit-1/Pizza-Restaurant/)
+* 🌐 Live Demo:https://sameer-shahzada.github.io/Accio-Projects/Unit-1/Pizza-Restaurant/
+* 💻 Source Code: [./Unit-1/Pizza-Restaurant/](./Unit-1/Pizza-Restaurant/)
 
 ---
 
-## ⚙️ Tech Stack
+<!-- ## ⚙️ Tech Stack
 
 * HTML5
 * CSS3
 * JavaScript (ES6)
-* Responsive Design
+* Responsive Design -->
 
 ---
 

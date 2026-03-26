@@ -31,8 +31,7 @@ Accio-Projects/
 
 * 🌐 Live Demo:
   https://sameer-shahzada.github.io/Accio-Projects/Unit-1/Insta-Clone/
-* 💻 Source Code:
-  `./Unit-1/Insta-Clone/`
+* 💻 Source Code: `[Source code](./Unit-1/Insta-Clone/)`
 
 ---
 

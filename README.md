@@ -3,7 +3,7 @@
 This repository contains all my project submissions for the **Accio Job Full Stack Development Course**.
 Each unit includes multiple projects demonstrating problem-solving, core programming concepts, data structures & algorithms, frontend development, and backend fundamentals across the full-stack curriculum.
 
----
+<!-- --- -->
 
 <!-- ## 📁 Repository Structure
 
@@ -21,7 +21,7 @@ Accio-Projects/
 └── index.html (Project Dashboard) 
 ``` -->
 
----
+<!-- --- -->
 
 ## 🚀 Live Projects
 
@@ -53,7 +53,7 @@ Accio-Projects/
 * 🌐 Live Demo:https://sameer-shahzada.github.io/Accio-Projects/Unit-1/Pizza-Restaurant/
 * 💻 Source Code: [./Unit-1/Pizza-Restaurant/](./Unit-1/Pizza-Restaurant/)
 
----
+<!-- --- -->
 
 <!-- ## ⚙️ Tech Stack
 
@@ -62,7 +62,7 @@ Accio-Projects/
 * JavaScript (ES6)
 * Responsive Design 
 -->
---- 
+<!-- ---  -->
 
 ## 📌 Notes
 
@@ -74,16 +74,23 @@ Accio-Projects/
 
 ## 📈 Progress
 
-* ✅ Unit 1 – Completed
+<!-- * ✅ Unit 1 – Completed -->
+* 🔄 Unit 1 – In Progress
 * 🔄 Unit 2 – In Progress
-* ⏳ Upcoming Units – Pending
+* 🔄 Unit 3 – Not Started Yet
+* 🔄 Unit 4 – Not Started Yet
+* 🔄 Unit 5 – Not Started Yet
+* 🔄 Unit 6 – Not Started Yet
+<!-- * ⏳ Upcoming Units – Pending -->
 
 ---
 
 ## 👨‍💻 Author
 
 **Mohd Sameer**
-Full Stack Developer (MERN & Next.js) | React.js, Node.js, Express, MongoDB | 3.6+ Years of Experience | Building Scalable Web Applications
+
+- Full Stack Developer (MERN & Next.js) | React.js, Node.js, Express, MongoDB
+- 3.6+ Years of Experience | Building Scalable Web Applications
 
 ---
 

@@ -1,4 +1,4 @@
-# Accio Job – Frontend Projects (Monorepo)
+# Accio Job – Full Stack Development Projects (Monorepo)
 
 This repository contains all my project submissions for the **Accio Job Full Stack Development Course**.
 Each unit includes multiple projects demonstrating problem-solving, core programming concepts, data structures & algorithms, frontend development, and backend fundamentals across the full-stack curriculum.
